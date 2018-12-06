@@ -1,8 +1,8 @@
 # eleme
 
-本项目基于vue2，vue2 +vue-router + es6 +webpack 仿饿了么app   
+> 本项目基于vue2，vue2 +vue-router + es6 +webpack 仿饿了么app   
   
-喜欢的请点个star吧=/=  
+>> 喜欢的请点个star吧=/=  
 
 ### 项目演示  
 
@@ -12,9 +12,9 @@
 ####  ![image](https://github.com/childmoon/Eleme/blob/master/GifPic/lol6.gif)  
 
 ### 项目技术架构
-> vue-cli
->> vue
->>> vue-resource
+* vue-cli
+* vue
+* vue-resource
 * vue-router
 * vue-infinite-scroll
 * stylus
