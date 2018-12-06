@@ -1,6 +1,37 @@
 # eleme
 
-> no
+本项目基于vue2，vue2 +vue-router + es6 +webpack 仿饿了么app   
+  
+喜欢的请点个star吧=/=  
+
+### 项目演示  
+
+
+
+### 项目技术架构
+* vue-cli
+* vue
+* vue-resource
+* vue-router
+* vue-infinite-scroll
+* stylus
+* webpack
+
+###  实现的功能
+* 商品滚动 ，商品滚轮滚动
+* 商品联动
+* 加入购物车，移除购物车
+* 显示评论
+* 图片左右滑动
+* 商品详情 父子组件的通信
+* 等等
+
+###  正在实现的功能
+* 商品加入购物车的动画
+* vuex
+* 无限滚动
+* 上拉刷新
+* 更多更精彩的内容
 
 ## Build Setup
 
