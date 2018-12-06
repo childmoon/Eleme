@@ -6,10 +6,10 @@
 
 ### 项目演示  
 
->[image](https://github.com/childmoon/Eleme/blob/master/GifPic/lol3.gif)  
->>![image](https://github.com/childmoon/Eleme/blob/master/GifPic/lol4.gif)  
->>>![image](https://github.com/childmoon/Eleme/blob/master/GifPic/lol5.gif)  
->>>>![image](https://github.com/childmoon/Eleme/blob/master/GifPic/lol6.gif)  
+####  ![image](https://github.com/childmoon/Eleme/blob/master/GifPic/lol3.gif)  
+![image](https://github.com/childmoon/Eleme/blob/master/GifPic/lol4.gif)  
+![image](https://github.com/childmoon/Eleme/blob/master/GifPic/lol5.gif)  
+![image](https://github.com/childmoon/Eleme/blob/master/GifPic/lol6.gif)  
 
 ### 项目技术架构
 * vue-cli
