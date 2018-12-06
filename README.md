@@ -1,7 +1,6 @@
 # eleme
 
 > 本项目基于vue2，vue2 +vue-router + es6 +webpack 仿饿了么app   
-  
 >> 喜欢的请点个star吧=/=  
 
 ### 项目演示  
